@@ -22,4 +22,4 @@ _____
 
 ##### SP:记得开声音使用www.
 
-<img src="1.jpg" style="zoom: 25%;" />
+<img src="1.jpg" style="zoom: 10%;" />
